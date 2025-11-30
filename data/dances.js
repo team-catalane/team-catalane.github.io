@@ -6,7 +6,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Beginner",
     "youtubeId": "s43hKky51Wo",
-    "tags": ["Catalan", "Line Dance", "Country"]
+    "tags": ["Catalan", "Beginner"]
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Beginner",
     "youtubeId": "PwQjcPPOZCo",
-    "tags": ["Catalan", "Line Dance", "Country"]
+    "tags": ["Catalan", "Beginner"]
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Beginner",
     "youtubeId": "QcaXDK_09U8",
-    "tags": ["Catalan", "Line Dance"]
+    "tags": ["Catalan", "Beginner"]
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Beginner",
     "youtubeId": "JFQ1nyeNijI",
-    "tags": ["Catalan", "Line Dance", "Fun"]
+    "tags": ["Catalan", "Beginner"]
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Beginner",
     "youtubeId": "uuY3YfVsJSQ",
-    "tags": ["Catalan", "Line Dance", "New"]
+    "tags": ["Catalan", "Beginner"]
   },
 
   // --- NOVICE ---
@@ -48,7 +48,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Novice",
     "youtubeId": "P95ye7ijfCc",
-    "tags": ["Catalan", "Line Dance", "Novice"]
+    "tags": ["Catalan", "Novice"]
   },
   {
     "id": 7,
@@ -56,7 +56,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Novice",
     "youtubeId": "KuUOqvKPioU",
-    "tags": ["Catalan", "Line Dance", "Novice"]
+    "tags": ["Catalan", "Novice"]
   },
   {
     "id": 8,
@@ -64,7 +64,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Novice",
     "youtubeId": "voXUgQFyZ-M",
-    "tags": ["Catalan", "Line Dance", "Novice"]
+    "tags": ["Catalan", "Novice"]
   },
   {
     "id": 9,
@@ -72,7 +72,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Novice",
     "youtubeId": "8pLTsbVgnSc",
-    "tags": ["Catalan", "Line Dance", "Warrior"]
+    "tags": ["Catalan", "Novice"]
   },
 
   // --- INTERMEDIATE ---
@@ -82,7 +82,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Intermediate",
     "youtubeId": "0twGyFxiQB8",
-    "tags": ["Catalan", "Workshop", "Catalan"]
+    "tags": ["Catalan", "Intermediate"]
   },
   {
     "id": 11,
@@ -90,7 +90,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Intermediate",
     "youtubeId": "b42cYoatA3Y",
-    "tags": ["Catalan", "Line Dance", "Country"]
+    "tags": ["Catalan", "Intermediate"]
   },
 
   // --- ADVANCED ---
@@ -100,7 +100,7 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Advanced",
     "youtubeId": "n_cf6shRYXg",
-    "tags": ["Catalan", "Advanced", "Line Dance"]
+    "tags": ["Catalan", "Advanced"]
   },
   {
     "id": 13,
@@ -108,6 +108,6 @@ const dancesData = [
     "artist": "Chorégraphie",
     "level": "Advanced",
     "youtubeId": "DmyMmsw6uu4",
-    "tags": ["Catalan", "Advanced", "Line Dance"]
+    "tags": ["Catalan", "Advanced"]
   }
 ];
